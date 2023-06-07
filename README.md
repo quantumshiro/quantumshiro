@@ -12,6 +12,10 @@
 [![](https://raw.githubusercontent.com/quantumshiro/quantumshiro/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/quantumshiro/quantumshiro/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Development
+[Diffie-Hellman-Share-Key](https://github.com/quantumshiro/Diffie-Hellman-Share-Key)
+[Read-Muller-Rust](https://github.com/quantumshiro/Read-Muller-Rust)
+[Hamming-Rust](https://github.com/quantumshiro/Hamming-Rust)
+[Paillier-BlockChain](https://github.com/quantumshiro/Paillier-BlockChain)
 
 # Skill stacks
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,c,cpp,rust,python,haskell,v,zig,julia,java)](https://skillicons.dev)
