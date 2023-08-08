@@ -18,4 +18,4 @@
 [Paillier-BlockChain](https://github.com/quantumshiro/Paillier-BlockChain)  
 
 # Skill stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,c,cpp,rust,python,haskell,v,zig,julia,java,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,c,cpp,rust,python,haskell,v,zig,julia,java)](https://skillicons.dev)
